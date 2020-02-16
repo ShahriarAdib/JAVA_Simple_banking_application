@@ -1,5 +1,4 @@
 # JAVA_Simple_banking_application
-# java_banking_application
 # A simple java desktop application 
 -> build using eclipse 
 
